@@ -1,3 +1,16 @@
+The **MovieFlix** application is a small attempt to demonstrate and understand the basics of a React Application.
+The app features fetching the movies from OMDB APIs (a replica of ImDb ratings) and provide details about the movie.
+Also, it provides you feature of adding the movies to watch list.
+
+If you tend to download teh project and run it in your local pls start with teh command 
+**npm -install**
+This is needed to install all the libraries/dependencies to run the react project. It will create a folder node_modules where it will keep the libraries which it will read from package-lock.json file.
+Post the above step is completed, pls run in the dev env **npm start**
+
+![image](https://github.com/user-attachments/assets/ffc4135c-1d53-46cf-b795-4a2aeba61a9f)
+
+![image](https://github.com/user-attachments/assets/aa87f811-690a-4bc3-8a4a-b2fc0ddeaf21)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
