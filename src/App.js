@@ -4,7 +4,7 @@ import Loader from "./Loader";
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
 
-const key = "da58e41a";
+const key = "your key";
 
 export default function App() {
   const [movies, setMovies] = useState([]);
