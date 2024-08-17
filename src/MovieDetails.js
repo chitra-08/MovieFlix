@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Loader from "./Loader";
-const key = "da58e41a";
+const key = "your key";
 export default function MovieDetails({
   selectedId,
   onCloseMovie,
